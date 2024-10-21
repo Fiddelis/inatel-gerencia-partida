@@ -3,7 +3,9 @@
 !!! note
     Utilizado somente pelo Recomendador.
 
-**POST (recomendador avisa serviço de partida)**
+## POST
+==Recomendador avisa serviço de partida==
+
 ```json
 {
     "usuario1_id": "long",

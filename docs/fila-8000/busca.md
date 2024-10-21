@@ -4,7 +4,9 @@
     Utilizado somente pelo Front-end.
 
 
-## POST (1° pedido de fila)
+## POST
+==1° pedido de fila.==
+
 ```json
 {
     "usuario_id": "long"
@@ -18,7 +20,9 @@
 
 ---
 
-## GET (Verificar fila)
+## GET
+==Verificar fila.==
+
 ```json
 {
     "usuario_id": "long"
@@ -45,7 +49,9 @@
 
 ---
 
-## DELETE (Sair da fila)
+## DELETE
+==Sair da fila.==
+
 ```json
 {
     "usuario_id": "long",

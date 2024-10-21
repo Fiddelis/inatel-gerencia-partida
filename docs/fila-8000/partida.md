@@ -3,7 +3,9 @@
 !!! note
     Uso interno.
 
-## POST (Serviço de partida avisa o serviço de Fila que foi criado uma partida)
+## POST
+==Serviço de partida avisa o serviço de Fila que foi criado uma partida==
+
 ```json
 {
     "partida_id": "long",

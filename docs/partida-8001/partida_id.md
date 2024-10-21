@@ -3,7 +3,8 @@
 !!! note
     Utilizado somente pelo Front-end.
 
-## PUT(indica o fim da partida)
+## PUT
+==Indica o fim da partida==
 
 ```json
 {
