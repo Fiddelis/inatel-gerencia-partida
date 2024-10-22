@@ -30,7 +30,7 @@
 ```
 **Possiveis retornos:**
 
-201
+102
 ```json
 {}
 ```
@@ -58,7 +58,7 @@
 }
 ```
 **Possiveis retornos:**  
-201
+204
 ```json
 {}
 ```
